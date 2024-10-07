@@ -5,7 +5,8 @@
 **Last Updated:** 2024-09-26  
 
 ## Logo
-![image](https://github.com/user-attachments/assets/beed696b-4be9-4bef-af37-80df0e683a44)
+![image](https://github.com/user-attachments/assets/42436424-6b44-4952-a602-b749ab79e4d5)
+
 
 
 ## Overview
