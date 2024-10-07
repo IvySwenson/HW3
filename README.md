@@ -4,6 +4,10 @@
 **Started:** 2024-09-21  
 **Last Updated:** 2024-09-26  
 
+## Logo
+![image](https://github.com/user-attachments/assets/beed696b-4be9-4bef-af37-80df0e683a44)
+
+
 ## Overview
 This project includes a set of functions for CS 311 Assignment 3. It focuses on implementing fundamental algorithms and templates in C++, including a `gcd` function for calculating the greatest common divisor using the Euclidean algorithm and a `lookup` template function for retrieving elements from a linked list by index. The project is designed to demonstrate understanding of recursion, template functions, and exception handling in C++.
 
